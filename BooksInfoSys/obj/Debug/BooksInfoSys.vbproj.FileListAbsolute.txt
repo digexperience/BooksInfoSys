@@ -1,0 +1,13 @@
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.vbproj.AssemblyReference.cache
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.Form1.resources
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.Resources.resources
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.vbproj.GenerateResource.cache
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.vbproj.CoreCompileInputs.cache
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\bin\Debug\BooksInfoSys.exe.config
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\bin\Debug\BooksInfoSys.exe
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\bin\Debug\BooksInfoSys.pdb
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\bin\Debug\BooksInfoSys.xml
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.exe
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.xml
+C:\Users\jolly\source\repos\BooksInfoSys\BooksInfoSys\obj\Debug\BooksInfoSys.pdb
